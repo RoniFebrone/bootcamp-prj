@@ -51,7 +51,7 @@ body {
         cursor: pointer;
     }
     #principal button:hover{
-        background-color: #318aff;
+        background-color: #084aa7;
         transform: translateY(1px);
         transform: translateY(-1px);
         transition-duration:0.8s ;
@@ -191,6 +191,14 @@ input[type="checkbox"]{
 
     cursor:pointer
 }
+    #login:hover{
+        background-color: #084aa7;
+        transform: translateY(1px);
+        transform: translateY(-1px);
+        transition-duration:0.8s ;
+        box-shadow: 0px 15px 20px  #0d303f69;
+    }
+
 footer{
     width: 100%;
     background: var(--azul-dnc);  
