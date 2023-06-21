@@ -118,7 +118,7 @@ header {
 
 /*-- FORMULÁRIO --*/
 
-form input:hover{
+form .formGroup input:hover{
     transform: translateY(-0.3px);
     transition-duration:0.4s ;
     box-shadow: 2px 5px 7px 5px  #686868;
